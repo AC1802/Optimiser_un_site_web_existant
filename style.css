@@ -728,6 +728,16 @@ h4 {
     color: #333333!important;
 }
 
+.text-violet {
+    font-size: 22px;
+    color: #364577;
+    line-height: 1;
+}
+
+.text-light-violet {
+    color: #364577;
+}
+
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
